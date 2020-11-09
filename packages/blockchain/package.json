@@ -1,8 +1,14 @@
 {
   "name": "@contractshark@utils",
   "version": "1.0.0",
-  "files": ["clean.js", "version.js"],
-  "bin": ["clean.js", "version.js"],
+  "files": [
+    "clean.js",
+    "version.js"
+  ],
+  "bin": [
+    "clean.js",
+    "version.js"
+  ],
   "homepage": "https://github.com/contractshark/utils",
   "license": "MIT"
 }

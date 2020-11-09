@@ -1,4 +1,3 @@
-
 /**
  * Replace [Unreleased] with [${package.version}]
  * sed like.
